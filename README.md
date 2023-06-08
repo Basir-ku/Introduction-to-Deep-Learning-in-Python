@@ -9,4 +9,4 @@ Deep learning is the machine learning technique behind the most exciting capabil
 
 3. Building deep learning models with keras: In 3rd notebook, you'll use the Keras library to build deep learning models for both regression and classification. You'll learn about the Specify-Compile-Fit workflow that you can use to make predictions, and by the end of this, you'll have all the tools necessary to build deep neural networks.
 
-4. 
+4. Learn how to optimize your deep learning models in Keras. Start by learning how to validate your models, then understand the concept of model capacity, and finally, experiment with wider and deeper networks.
